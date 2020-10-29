@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.exe
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.deps.json
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\monisha.khapali\source\repos\Reversing\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.genruntimeconfig.cache
